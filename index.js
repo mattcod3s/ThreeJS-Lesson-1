@@ -1,1 +1,2 @@
-var a;
+let a = 10;
+console.log(a);
